@@ -5,7 +5,11 @@ INFS3208辅导
 比较有意思的一门课程，能学到不少实际有用的内容、云计算各种概念、docker swarm、k8s、pyspark，认真听课的话，通过的难度不是太高。
 
 A1 编写dockerfile打镜像
+
+
 A2 用docker swarm 部署php服务
+
+
 A3 pyspark使用，难度不是太高 
 
 大作业，开放式，用docker swarm 部署一个分布式的服务，或者做一个大数据分析任务都可以
