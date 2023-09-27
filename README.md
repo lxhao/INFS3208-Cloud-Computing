@@ -6,12 +6,12 @@ INFS3208辅导
 
 A1 编写dockerfile打镜像
 A2 用docker swarm 部署php服务
-A3 pyspark使用，难度不是太高
+A3 pyspark使用，难度不是太高 
 
 大作业，开放式，用docker swarm 部署一个分布式的服务，或者做一个大数据分析任务都可以
 
 
-支持作业、考试辅导、代写，具体可以加微信lxhao580，老师直接接单，不经过中介平台，价格优惠，服务靠谱
+支持作业、考试辅导、代写，具体可以加微信lxhao580，本人直接接单，不经过中介平台，价格优惠，服务靠谱
 
 School of Electrical Engineering and Computer Science
 INFS3208 – Cloud Computing Programming Assignment Task II (10 Marks)
